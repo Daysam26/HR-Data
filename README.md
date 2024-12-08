@@ -10,7 +10,7 @@ This data speaks on how people left the organization a term called â€œAttritionâ
 ---
 The primary source of this data is from Admin/HR of the company in person of the Mr Temidayo Ayeni.
 
-###Tool Used
+### Tool Used
 ---
 - Power BI
 This tools is use to visualize data such as; 
