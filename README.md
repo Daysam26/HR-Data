@@ -13,7 +13,8 @@ The primary source of this data is from Admin/HR of the company in person of the
 ### Tool Used
 ---
 - Power BI
-This tools is use to visualize data such as; 
+This tools is use to visualize data such as;
+
 a) Table function
 
 b) Matrix function
@@ -21,7 +22,9 @@ b) Matrix function
 c) Calling of cards
 
 d) QnA function
+
 e) Funnel function
+
 f) Slicer  etc.
  
 ### Data Cleaning and Preparation
