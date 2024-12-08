@@ -1,6 +1,13 @@
 # HR-Data
 HR Data Documentation
 
+## [Project Overview](#project-overview)
+## [Data Source](#data-source)
+## [Tools Used](#tools-used)
+## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Inference/Insight](#inference/insight)
+## [Recommendation](#recommendation)
 
 ### Project Overview
 ---
@@ -10,9 +17,10 @@ This data speaks on how people left the organization a term called â€œAttritionâ
 ---
 The primary source of this data is from Admin/HR of the company in person of the Mr Temidayo Ayeni.
 
-### Tool Used
+### Tools Used
 ---
-- Power BI
+- Power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+  
 This tools is use to visualize data such as;
 
 a) Table function
@@ -46,18 +54,6 @@ The stages involve in this process includes;
 - Department with highest attrition
 - Sum of attrition by male
 - Sum of attrition by department
-
-### Exploratory Data Analysis
----
-The EDA involves in these Data Analysis are;
-1. What is total number of employee in the company
-2. How many people left the organization (attrition)
-3. What is the rate of attrition
-4. What is the attrition rate of sales executive
-5. The number of married male who have left the organization
-6. Total number of male by attrition 
-7. How many male attrition do we have who have technical degree
-8. What is the number of count employee  by their age group
 
 ### Exploratory Data Analysis
 ---
