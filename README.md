@@ -69,6 +69,10 @@ The EDA involves in these Data Analysis are;
 
 ### Inference/Insight
 ---
+![HR 1](https://github.com/user-attachments/assets/ae05c006-0f74-412e-b75b-e18781bc598d)
+
+![HR 2](https://github.com/user-attachments/assets/47736b87-3caf-4d61-a5ce-e64e6ffb885c)
+
 1. From the HR data analysis the following values were analyse;
  - Total number of employee 1470
  - Count of attrition “YES”  237
