@@ -73,7 +73,7 @@ The EDA involves in these Data Analysis are;
 
 ![HR 2](https://github.com/user-attachments/assets/47736b87-3caf-4d61-a5ce-e64e6ffb885c)
 
-1. From the HR data analysis the following values were analyse;
+1. From the HR data analysis the following values were analysed;
  - Total number of employee 1470
  - Count of attrition “YES”  237
  - Count of attrition “NO”  1233
