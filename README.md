@@ -71,8 +71,6 @@ The EDA involves in these Data Analysis are;
 ---
 ![HR 1](https://github.com/user-attachments/assets/ae05c006-0f74-412e-b75b-e18781bc598d)
 
-![HR 2](https://github.com/user-attachments/assets/47736b87-3caf-4d61-a5ce-e64e6ffb885c)
-
 1. From the HR data analysis the following values were analysed;
  - Total number of employee 1470
  - Count of attrition “YES”  237
@@ -92,18 +90,18 @@ The EDA involves in these Data Analysis are;
 
 6. ATTRITION BY MALE: Male has the highest no of attrition in the organization with 150 left out 882 total male in the organization at the rate of 17.01% while 87 female left out of 588 female employed.
 
-7. SUM OF ATTRITION BY AGE BAND AND GENDER: 69 male and 43 female within the age band of 25-34 has the highest no of employee that left the organization.
+B
+![HR 2](https://github.com/user-attachments/assets/47736b87-3caf-4d61-a5ce-e64e6ffb885c)
 
-8. SUM OF ATTRITION COUNT BY EDUCATION: From the analysis it is observed that Bachelor Degree has the highest no of attrition with 99 persons follow by people with Master’s Degree.
+1. SUM OF ATTRITION BY AGE BAND AND GENDER: 69 male and 43 female within the age band of 25-34 has the highest no of employee that left the organization.
+
+2. SUM OF ATTRITION COUNT BY EDUCATION: From the analysis it is observed that Bachelor Degree has the highest no of attrition with 99 persons follow by people with Master’s Degree.
    
-10. SUM OF ATTRITION BY OVERTIME IN DEPARTMENT: R&D department has the highest no of attrition with 133, working as overtime.
+3. SUM OF ATTRITION BY OVERTIME IN DEPARTMENT: R&D department has the highest no of attrition with 133, working as overtime.
     
-10. SUM OF ATTRITION OVERTIME BY MARITAL STATUS: The single has the highest no of attrition working overtime with 120.
+4. SUM OF ATTRITION OVERTIME BY MARITAL STATUS: The single has the highest no of attrition working overtime with 120.
     
-12. SUM OF ATTRITION BY EDUCATION IN Singles:  In this table analysis single that studied Bachelor degree has the most attrition of 52 in Education.
-
-
-
+5. SUM OF ATTRITION BY EDUCATION IN Singles:  In this table analysis single that studied Bachelor degree has the most attrition of 52 in Education.
 
 ### Recommendation
 ---
